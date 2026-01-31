@@ -11,7 +11,7 @@ An end-to-end Market Basket Analysis (MBA) ecosystem that transforms raw transac
 ## 🎯 Business Value
 This engine provides a statistically-backed framework for retail decision-making:
 
-* **Evidence-Based Bundling**: Uses **Lift** and **Z-Score** to identify product pairs that truly belong together, moving beyond simple observation.
+* **Evidence-Based Bundling**: Uses **Lift** and **Z-Score** to identify product pairs that truly belong together.
 * **Inventory & Layout Optimization**: Provides data-driven insights for physical shelf placement and digital "Frequently Bought Together" recommendations.
 * **Noise Reduction**: The **Rule Threshold** system allows stakeholders to filter out weak associations and focus only on high-impact retail strategies.
 
