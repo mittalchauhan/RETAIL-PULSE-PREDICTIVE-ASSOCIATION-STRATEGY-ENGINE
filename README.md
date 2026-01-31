@@ -8,7 +8,7 @@ An end-to-end Market Basket Analysis (MBA) ecosystem that transforms raw transac
 
 ---
 
-## Business Value
+## Business Strategic Use Cases
 This engine provides a statistically-backed framework for retail decision-making:
 
 * **Evidence-Based Bundling**: Uses **Lift** and **Z-Score** to identify product pairs that truly belong together.
@@ -29,7 +29,7 @@ This engine provides a statistically-backed framework for retail decision-making
 * `validated_association_rules.csv`: The processed output used by the production dashboard.
 * `data_extraction.sql`: Optimized SQL queries for enterprise data retrieval.
 
-## Dashboard Overview
+## Dashboard 
 - Full view of the RetailPulse Engine showing initial state and high-level metrics.
 ---
 ![Dashboard Overview](assets/Dashboard_Overview.png)
@@ -41,7 +41,7 @@ This engine provides a statistically-backed framework for retail decision-making
 ![Filtering Functionality](assets/Filtering_Functionality.png)
 ---
 
-## WIDE MODE View
+## Strategy Matrix
 - Enterprise-grade strategy matrix display with the sidebar collapsed for maximum visibility.
 ---
 ![Wide Mode View](assets/Wide_Mode_View.png)
