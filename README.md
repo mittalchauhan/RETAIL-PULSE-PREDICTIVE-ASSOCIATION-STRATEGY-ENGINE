@@ -1,4 +1,4 @@
-## 🛒 **RETAIL-PULSE-ANALYTICS-PREDICTIVE-ASSOCIATION-STRATEGY-ENGINE**
+### 🛒 **RETAIL-PULSE-ANALYTICS-PREDICTIVE-ASSOCIATION-STRATEGY-ENGINE**
 
 ![Python](https://img.shields.io/badge/python-3.8+-blue.svg)
 ![Streamlit](https://img.shields.io/badge/Streamlit-1.28+-FF4B4B.svg)
