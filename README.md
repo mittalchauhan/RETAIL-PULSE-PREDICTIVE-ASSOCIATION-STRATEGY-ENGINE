@@ -8,7 +8,7 @@ An end-to-end Market Basket Analysis (MBA) ecosystem that transforms raw transac
 
 ---
 
-## 🎯 Business Value
+## Business Value
 This engine provides a statistically-backed framework for retail decision-making:
 
 * **Evidence-Based Bundling**: Uses **Lift** and **Z-Score** to identify product pairs that truly belong together.
