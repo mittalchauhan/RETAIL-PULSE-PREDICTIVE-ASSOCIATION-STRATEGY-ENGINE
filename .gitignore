@@ -1,0 +1,18 @@
+# Python bytecode and cache
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
+
+# Environments
+.venv/
+env/
+venv/
+ENV/
+
+# Data files (Exclude large datasets, keep the validated CSV)
+Online_Retail.xlsx
+*.log
+
+# Streamlit
+.streamlit/config.toml
