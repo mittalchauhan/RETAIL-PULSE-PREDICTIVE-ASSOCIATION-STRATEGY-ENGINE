@@ -29,13 +29,13 @@ This engine provides a statistically-backed framework for retail decision-making
 * `validated_association_rules.csv`: The processed output used by the production dashboard.
 * `data_extraction.sql`: Optimized SQL queries for enterprise data retrieval.
 
-## Dashboard 
+## Strategic Interface
 - Full view of the RetailPulse Engine showing initial state and high-level metrics.
 ---
 ![Dashboard Overview](assets/Dashboard_Overview.png)
 ---
 
-## Filtering Functionality
+## Dynamic Filtering
 - Real-time search and threshold adjustment demonstrating the dynamic nature of the Strategy Matrix.
 ---
 ![Filtering Functionality](assets/Filtering_Functionality.png)
